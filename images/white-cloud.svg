@@ -1,0 +1,11 @@
+<svg version="1.1" id="" width="240" height="240"   xmlns="http://www.w3.org/2000/svg">
+    <symbol id="white-cloud-icon" viewBox="80 0 240 200">
+    <rect width="300" height="300" style="fill:rgb(179, 240, 255);stroke:none" />
+        <circle cx="150" cy="60" r="40" stroke-width="0" fill="white"  />
+        <circle cx="90" cy="80" r="45" stroke-width="0" fill="white"  />
+        <circle cx="50" cy="110" r="35" stroke-width="0" fill="white"  />
+        <ellipse cx="140" cy="120" rx="70" ry="50" style="fill:white;stroke:none" />
+        <ellipse cx="220" cy="110" rx="60" ry="30" style="fill:white;stroke:none" />
+        <circle cx="200" cy="80" r="35" stroke-width="0" fill="white"  />
+   </symbol>
+</svg>
